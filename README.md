@@ -24,14 +24,6 @@ The app is deployed on **Streamlit Cloud** and uses **The Movie Database (TMDB) 
 
 ---
 
-## 📂 Project Structure
-
-📦 Movie-Recommendation-System
-├── app.py # Streamlit app
-├── requirements.txt # Dependencies
-├── notebook.ipynb # ML model training (optional, for reference)
-└── README.md # Documentation
-
 
 ## ⚡ How It Works
 1. Dataset is preprocessed and feature vectors are created.  
